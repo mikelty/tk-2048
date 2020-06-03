@@ -1,0 +1,1 @@
+COLORS=['gray59', 'medium purple', 'forest green', 'honeydew2', 'DarkSeaGreen2', 'PaleTurquoise2', 'peach puff', 'yellow green', 'tan2', 'blanched almond', 'navy', 'gray12', 'DarkSlateGray3', 'gray7', 'gray14']
