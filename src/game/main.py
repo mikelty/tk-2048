@@ -1,8 +1,5 @@
 #to publish on windows 10, enter terminal and enter this directory and type:
 #pyinstaller -F --icon=..\\assets\images\icon.ico --add-data "..\\assets;..\\assets" main.py
-"""
-TODO:basic ai https://stackoverflow.com/questions/22342854/what-is-the-optimal-algorithm-for-the-game-2048/23853848#23853848
-"""
 import tkinter as tk
 from src.game.game import Game
 
